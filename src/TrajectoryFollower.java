@@ -46,5 +46,4 @@ public class TrajectoryFollower {
     public double getHeading() {
         return currentHeading;
     }
-
 }
