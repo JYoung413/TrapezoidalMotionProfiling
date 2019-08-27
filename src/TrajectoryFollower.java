@@ -1,4 +1,3 @@
-
 public class TrajectoryFollower {
     private double kv;
     private double ka;
