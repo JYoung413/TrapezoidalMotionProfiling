@@ -22,7 +22,4 @@ public class Path {
     public String getName() {
         return name;
     }
-
-
-
 }
