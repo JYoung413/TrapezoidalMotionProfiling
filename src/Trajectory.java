@@ -1,5 +1,3 @@
-
-
 /**
  * A deserialized followable trapezoidal motion profile.
  */
@@ -38,7 +36,6 @@ public class Trajectory {
             return "pos: " + pos + "; vel: " + vel + "; acc: " + acc + "; jerk: "
                     + jerk + "; heading: " + heading;
         }
-
     }
 
     Segment[] segments;
