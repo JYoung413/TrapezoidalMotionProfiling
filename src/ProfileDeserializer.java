@@ -1,4 +1,3 @@
-
 import java.util.StringTokenizer;
 
 /**
@@ -55,5 +54,4 @@ public Path deserialize(String serializedProfile) {
     System.out.println("...finished parsing path from string.");
     return new Path(name, new Trajectory.Pair(left, right));
     }
-
 }
